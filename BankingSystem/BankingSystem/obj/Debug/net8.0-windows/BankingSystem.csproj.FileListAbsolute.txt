@@ -1,0 +1,82 @@
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.exe
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.deps.json
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.runtimeconfig.json
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.pdb
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.csproj.GenerateResource.cache
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.AssemblyInfo.cs
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\refint\BankingSystem.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.pdb
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.genruntimeconfig.cache
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\ref\BankingSystem.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.MainMenuForm.resources
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.RegistrationForm.resources
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.OpenAccountForm.resources
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.csproj.AssemblyReference.cache
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingS.A12E54A2.Up2Date
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.Forms.LoginForm.resources
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.Forms.TransactionHistoryForm.resources
+C:\Users\todor\Documents\University\ПИ\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.Forms.StatisticsForm.resources
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.exe
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.deps.json
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.runtimeconfig.json
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.dll
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.pdb
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.Core.dll
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\bin\Debug\net8.0-windows\BankingSystem.Core.pdb
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.csproj.AssemblyReference.cache
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.Forms.LoginForm.resources
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.MainMenuForm.resources
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.OpenAccountForm.resources
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.RegistrationForm.resources
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.Forms.StatisticsForm.resources
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.Forms.TransactionHistoryForm.resources
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.csproj.GenerateResource.cache
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.AssemblyInfo.cs
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingS.A12E54A2.Up2Date
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.dll
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\refint\BankingSystem.dll
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.pdb
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.genruntimeconfig.cache
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\ref\BankingSystem.dll
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem\BankingSystem\obj\Debug\net8.0-windows\BankingSystem.Forms.AuditLogForm.resources
