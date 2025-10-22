@@ -1,0 +1,11 @@
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\bin\Debug\net8.0\BankingSystem.Core.deps.json
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\bin\Debug\net8.0\BankingSystem.Core.dll
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\bin\Debug\net8.0\BankingSystem.Core.pdb
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\obj\Debug\net8.0\BankingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\obj\Debug\net8.0\BankingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\obj\Debug\net8.0\BankingSystem.Core.AssemblyInfo.cs
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\obj\Debug\net8.0\BankingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\obj\Debug\net8.0\BankingSystem.Core.dll
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\obj\Debug\net8.0\refint\BankingSystem.Core.dll
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\obj\Debug\net8.0\BankingSystem.Core.pdb
+C:\Users\todor\Documents\University\ООП Курсов Проект\BankingSystem.Core\BankingSystem.Core\obj\Debug\net8.0\ref\BankingSystem.Core.dll
